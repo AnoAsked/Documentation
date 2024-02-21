@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2024-02-13T18:01:34.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="j010NIye-uK-nF4_SQ98" version="23.1.4" type="device">
+  <diagram name="Page-1" id="z2EE5OgdTC_VLaUfrYpA">
+    <mxGraphModel dx="988" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zffmOIOkAcmlemn36Cwc-1" value="Beitrag auswählen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-2" value="Mit Link zum Beitrag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zffmOIOkAcmlemn36Cwc-2" target="zffmOIOkAcmlemn36Cwc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-4" value="Knopf &quot;Neuer Kommentar&quot; auswählen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-6" value="Kommentar ausfüllen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zffmOIOkAcmlemn36Cwc-1" target="zffmOIOkAcmlemn36Cwc-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="360" as="sourcePoint" />
+            <mxPoint x="370" y="360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="zffmOIOkAcmlemn36Cwc-4" target="zffmOIOkAcmlemn36Cwc-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="380" as="sourcePoint" />
+            <mxPoint x="190" y="440" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-12" value="Knopf &quot;Erstellen&quot; auswählen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-13" value="Knopf &quot;Verwerfen&quot; auswählen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zffmOIOkAcmlemn36Cwc-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="620" as="sourcePoint" />
+            <mxPoint x="379.71" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zffmOIOkAcmlemn36Cwc-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="590" as="sourcePoint" />
+            <mxPoint x="450" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zffmOIOkAcmlemn36Cwc-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zffmOIOkAcmlemn36Cwc-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="470" as="sourcePoint" />
+            <mxPoint x="570" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
