@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net" modified="2024-05-19T22:38:07.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Hs5t5ysH_Tfmhwc8Kl81" version="24.4.4" type="device">
+  <diagram name="Page-1" id="XjKTI5qEjLxaOlQeoXKI">
+    <mxGraphModel dx="1185" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jinayf6S9fSjKpfnplrZ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SvelteKit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;GunJS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Express&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MongoDB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gmail&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Imgur&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jinayf6S9fSjKpfnplrZ-1" target="jinayf6S9fSjKpfnplrZ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="330" as="sourcePoint" />
+            <mxPoint x="420" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-11" value="Dezentralisiertes &lt;br&gt;speichern der Daten&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jinayf6S9fSjKpfnplrZ-10">
+          <mxGeometry x="0.331" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jinayf6S9fSjKpfnplrZ-1" target="jinayf6S9fSjKpfnplrZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="370" as="sourcePoint" />
+            <mxPoint x="510" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-13" value="Speichern der&lt;br&gt;hochgeladenen Medien" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jinayf6S9fSjKpfnplrZ-12">
+          <mxGeometry x="0.331" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jinayf6S9fSjKpfnplrZ-1" target="jinayf6S9fSjKpfnplrZ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="410" as="sourcePoint" />
+            <mxPoint x="510" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-15" value="Verifizierung der Benutzer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jinayf6S9fSjKpfnplrZ-14">
+          <mxGeometry x="0.331" relative="1" as="geometry">
+            <mxPoint x="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jinayf6S9fSjKpfnplrZ-4" target="jinayf6S9fSjKpfnplrZ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="290" as="sourcePoint" />
+            <mxPoint x="830" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-17" value="Speichern der&lt;br&gt;verifizierungs-Emails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jinayf6S9fSjKpfnplrZ-16">
+          <mxGeometry x="0.331" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jinayf6S9fSjKpfnplrZ-4" target="jinayf6S9fSjKpfnplrZ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="520" as="sourcePoint" />
+            <mxPoint x="770" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jinayf6S9fSjKpfnplrZ-19" value="Versenden der&lt;br&gt;verifizierungs-Emails" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jinayf6S9fSjKpfnplrZ-18">
+          <mxGeometry x="0.331" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
