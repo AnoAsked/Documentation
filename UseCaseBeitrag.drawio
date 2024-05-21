@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T17:34:32.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HMCUP6bzE9mzKsR5rX_V" version="24.4.4" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-21T20:13:09.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YmykjFZ_w7AlEIx3vXcv" version="24.4.4" type="device">
   <diagram name="Page-1" id="KohogDO_rDvB8wIQ5u5G">
-    <mxGraphModel dx="2074" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6-ISyPGT32DfzdLKjNMn-1" value="Webseite öffnen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6-ISyPGT32DfzdLKjNMn-2" value="Mit anonymen Benutzerlink starten" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6-ISyPGT32DfzdLKjNMn-2" value="Mit anonymem Benutzerlink starten" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-ISyPGT32DfzdLKjNMn-4" value="Mit Identitätsanbieter verifizieren" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
         <mxCell id="6-ISyPGT32DfzdLKjNMn-5" value="Chatroom auswählen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6-ISyPGT32DfzdLKjNMn-6" value="Als Anonymer Benutzer fortfahren" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6-ISyPGT32DfzdLKjNMn-6" value="Als anonymer Benutzer fortfahren" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-ISyPGT32DfzdLKjNMn-8" value="Knopf &quot;Beitrag erstellen&quot; auswählen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">

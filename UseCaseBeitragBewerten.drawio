@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T17:38:29.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XxQET5Bxw312tro6Bo9h" version="24.4.4" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-21T20:15:14.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4KFoLGUd-0bWyv2Gk0xg" version="24.4.4" type="device">
   <diagram name="Page-1" id="gI7Xt05HyMgb97HXNIC5">
-    <mxGraphModel dx="1185" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,10 +16,10 @@
             <mxPoint x="360" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qJYhXV0gFq5TrV9Kb4ds-14" value="Knopf für Daumen hoch drücken" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qJYhXV0gFq5TrV9Kb4ds-14" value="Knopf &quot;Daumen hoch&quot; drücken" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qJYhXV0gFq5TrV9Kb4ds-15" value="Knopf für Daumen runter drücken" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="qJYhXV0gFq5TrV9Kb4ds-15" value="Knopf &quot;Daumen runter&quot; drücken" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qJYhXV0gFq5TrV9Kb4ds-16" value="Knopf &quot;Daumen hoch&quot; wieder drücken,&lt;br&gt;um zu entfernen" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
